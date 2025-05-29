@@ -104,7 +104,9 @@ nav a.active {
     margin-bottom: 2rem;
     color: #222;
 }
-
+.descripcion{
+    color:gray;
+}
 /* Grid de productos */
 .productos {
     display: grid;
